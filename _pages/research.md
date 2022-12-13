@@ -36,4 +36,4 @@ $$\begin{aligned}
     &=\delta(\tau-\bar{\tau}),
 \end{aligned}$$ 
 
-where $$\delta(\tau)$$ is the *Delta Dirac* function.
+where $$\delta(\tau)$$ is the *Delta Dirac* function.  The above description is summarized using graph or automata notation
