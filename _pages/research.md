@@ -38,4 +38,4 @@ $$\begin{aligned}
 
 where $$\delta(\tau)$$ is the *Delta Dirac* function.  The above description is summarized using graph or automata notation
 
-![Automata notation](assets/img/hsys.png)
+![Automata notation](https://github.com/cavargar/cavargar.github.io/blob/65e9f5a4e08d2eb6a3561874ebf26612ae8f94d2/assets/img/hsys.png)
