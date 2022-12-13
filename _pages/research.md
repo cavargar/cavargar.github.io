@@ -37,3 +37,5 @@ $$\begin{aligned}
 \end{aligned}$$ 
 
 where $$\delta(\tau)$$ is the *Delta Dirac* function.  The above description is summarized using graph or automata notation
+
+![Automata notation](assets/img/hsys.png)
