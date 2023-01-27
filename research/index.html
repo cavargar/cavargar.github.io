@@ -2,7 +2,7 @@
 <html lang="en">
 
   <!-- Head -->
-  <head><meta http-equiv="refresh" content="3; url=https://cavargar.github.io/" />        
+  <head>        
     <!-- Metadata, OpenGraph and Schema.org -->
     
 
@@ -10,9 +10,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Cesar Augusto Vargas-Garcia | Page not found</title>
+    <title>Cesar Augusto Vargas-Garcia | research</title>
     <meta name="author" content="Cesar Augusto Vargas-Garcia" />
-    <meta name="description" content="Looks like there has been a mistake. Nothing exists here." />
+    <meta name="description" content="A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+" />
     <meta name="keywords" content="jekyll, jekyll-theme, academic-website, portfolio-website" />
 
 
@@ -31,7 +32,7 @@
     <!-- Styles -->
     <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔥</text></svg>">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <link rel="canonical" href="https://cavargar.github.io/404.html">
+    <link rel="canonical" href="https://cavargar.github.io/research/">
 
     <!-- Dark Mode -->
     <script src="/assets/js/theme.js"></script>
@@ -69,8 +70,8 @@
               <li class="nav-item ">
                 <a class="nav-link" href="/publications/">publications</a>
               </li>
-              <li class="nav-item ">
-                <a class="nav-link" href="/research/">research</a>
+              <li class="nav-item active">
+                <a class="nav-link" href="/research/">research<span class="sr-only">(current)</span></a>
               </li>
               <li class="nav-item ">
                 <a class="nav-link" href="/software/">software</a>
@@ -95,12 +96,45 @@
         <div class="post">
 
           <header class="post-header">
-            <h1 class="post-title">Page not found</h1>
-            <p class="post-description">Looks like there has been a mistake. Nothing exists here.</p>
+            <h1 class="post-title">research</h1>
+            <p class="post-description"></p>
           </header>
 
           <article>
-            <p>You will be redirected to the main page within 3 seconds. If not redirected, please click <a href="https://cavargar.github.io/">here</a>.</p>
+            <h2 id="single-cell-size-dynamics">Single-cell size dynamics</h2>
+<p>Imagine a single cell growing at a given rate and then, suddenly out of blue, it divides its size in two. Is this random? is there an internal clock, a size sensing mechanisms or any control that fires such abrupt change?</p>
+
+<p>Let the cell size \(s\) grow exponentially according to the equation</p>
+
+\[\frac{ds}{dt}=\alpha s, \, s(0)=s_0,\]
+
+<p>where \(\alpha\) is the growth rate, \(s_0\) is the initial cell size, and \(t\) is the experiment time. Also, let the cell cycle time \(\tau\) be the time it takes for a cell to grow and divide. The cell cycle progress is represented by the equation</p>
+
+\[\frac{d\tau}{dt}=1, \, \tau(0)=0.\]
+
+<p>A division event occurs when a cell splits into two daughter cells. This event resets both the cell size to half and the cell cycle time to zero, that is,</p>
+
+\[s \mapsto s / 2, \quad \tau \mapsto 0,\]
+
+<p>marking the end of one cycle and the start of a new one. Let \(P(\tau)\) define when division happens as per</p>
+
+\[P(\tau)=U(\tau-\bar{\tau})=\begin{cases}
+    1,  \text{ if } \tau &gt; \bar{\tau} \\
+    0,  \text{ otherwise,}
+\end{cases}\]
+
+<p>where \(U(\tau-\bar{\tau})\) is the unit step function and \(\bar{\tau}\) is the time to division since the start of the cell cycle. Cell performs a division event if \(P(\tau)=1\).</p>
+
+<p>The division rate can be defined as</p>
+
+\[\begin{aligned}
+    p(\tau)&amp;=\frac{d P}{d\tau}\\
+    &amp;=\delta(\tau-\bar{\tau}),
+\end{aligned}\]
+
+<p>where \(\delta(\tau)\) is the <em>Delta Dirac</em> function.  The above description is summarized using graph or automata notation</p>
+
+<p><img src="https://github.com/cavargar/cavargar.github.io/blob/master/assets/img/hsys.png" alt="Automata notation"></p>
 
           </article>
 
