@@ -23,3 +23,5 @@ The most striking feature of life on earth is its diversity. I'm aware of the ce
 - Mathematical modeling, using frameworks like ordinary differential equations (ODE), stochastic processes (hybrid systems, Markov processes, SDEs).
 
 Biological problems I'm passionate by range from the study of interactions between hosts and pathogens at inter-cellular level, to the dynamics of a given molecule at the single-cell level.
+
+Check out our [book in progress!](https://cavargar.github.io/book2/intro.html)
