@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
+    "name": "César Augusto Vargas-García",
     "label": "Scientist",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "",
+    "phone": "",
+    "url": "https://cavargar.github.io/",
+    "summary": "I am a Ph.D. in Electrical and Computer Engineering, based in Colombia. Currently, I serve as the principal investigator at AGROSAVIA, where I focus on leveraging data analysis, mathematical, and computational modeling to advance biological and agricultural systems. My research interests encompass a wide range of topics, including cell size control in bacteria, fission yeast, budding yeast, algae, and microbial communities in livestock. My expertise lies in integrating advanced computational approaches with biological research, aimed at solving interdisciplinary challenges in life sciences and agriculture. I am particularly passionate about applying mathematical and computational tools, such as artificial intelligence, to enhance our understanding and address complex questions in biology and agriculture.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "CO",
+      "region": ""
     },
     "profiles": [
       {
