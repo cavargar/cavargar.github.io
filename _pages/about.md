@@ -18,8 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The most striking feature of life on earth is its diversity. I'm aware of the central role of biology in understanding how biodiversity arose, how it is maintained, what are its consequences, and how we should conserve it. However, since the study of biodiversity could be overwhelming, I'm interested in new ways in which mathematical modeling might help in guiding in the selection of the next research question to solve. In particular, I'm interested in:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+- Biological data analysis through mathematical frameworks such as those used in machine learning (PCA, Tensor analysis, etc.)
+- Mathematical modeling, using frameworks like ordinary differential equations (ODE), stochastic processes (hybrid systems, Markov processes, SDEs).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Biological problems I'm passionate by range from the study of interactions between hosts and pathogens at inter-cellular level, to the dynamics of a given molecule at the single-cell level.
+
+Check out our [book in progress!](https://cavargar.github.io/book2/intro.html)
