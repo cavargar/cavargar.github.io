@@ -14,7 +14,16 @@ Hyperspectral Imaging (HSI), capturing information across hundreds of spectral b
 
 ### 🔬 Probability Modeling Applied to Cancer Research
 
-The outcome for many cancer patients has substantially improved over the last two decades with the introduction of drugs targeting kinases and other proteins in signaling pathways disrupted in tumor cells. However, almost all tumors eventually develop resistance to these drugs, leading to cancer recurrence. Understanding the processes through which resistance develops is essential to overcome and cure cancer. By analyzing single-cell cancer micro-array data using probabilistic modeling and statistical analysis, we inferred gene expression networks potentially responsible for cancer treatment resistance.
+The outcome for many cancer patients has substantially improved over the last two decades with the introduction of drugs targeting kinases and other proteins in signaling pathways disrupted in tumor cells. However, almost all tumors eventually develop resistance to these drugs, leading to cancer recurrence. 
+
+**Our Contribution (Nature, 2017):** We implemented and applied the phixer algorithm to analyze single-cell RNA FISH data from melanoma cancer cells, uncovering directed gene interaction networks among 19 genes including resistance markers (VEGFC, AXL, JUN, WNT5A, NGFR, SERPINE1, FGFR1, LOXL2, EGFR, NRG1, PDGFRB, RUNX2, FOSL1, and PDGFC). Our computational approach:
+
+- Used φ-mixing coefficients to quantify directed causal relationships between genes
+- Revealed that ~80% of apparent gene correlations were indirect effects from common upstream regulators
+- Identified key upstream regulators (NRG1, RUNX2, EGFR, PDGFRB) driving coordinated rare-cell expression of resistance markers
+- Demonstrated how resistance emerges through complex feedforward loops and regulatory pathways
+
+This work provided novel insights into how rare cancer cells coordinately express multiple resistance markers, potentially explaining treatment failure and cancer recurrence.
 
 ### 🧬 Stochastic Process Modeling and Statistical Analysis Unveiling Single-Cell Size Control Mechanisms
 
