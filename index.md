@@ -69,7 +69,7 @@ Starting as a computer scientist, I found my passion at the intersection of comp
 
 ---
 
-[Research](/research) | [Press & Media](/press)
+[Research](/research) | [Press & Media](/press) | [Publications](/publications)
 
 ---
 
