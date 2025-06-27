@@ -10,7 +10,7 @@
 <div style="display: flex; gap: 20px; align-items: center; margin: 15px 0;">
   <div data-badge-type="donut" data-doi="10.1038/nature22794" data-badge-popover="right" class="altmetric-embed"></div>
   <span class="__dimensions_badge_embed__" data-doi="10.1038/nature22794" data-style="small_circle"></span>
-  <div class="plumx-plum-print-popup" data-href="https://plu.mx/plum/a/?doi=10.1038/nature22794"></div>
+  <a class="plumx-plum-print-popup" data-href="https://plu.mx/plum/a/?doi=10.1038/nature22794"></a>
 </div>
 
 **Our contribution:** Implemented and applied the phixer algorithm to analyze single-cell RNA FISH data, revealing directed gene interaction networks that explain how rare cancer cells coordinately express resistance markers. This computational approach identified key upstream regulators driving drug resistance emergence.
