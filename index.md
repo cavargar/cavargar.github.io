@@ -52,7 +52,7 @@ At the forefront of integrating advanced computational and mathematical modeling
 
 ---
 
-[Research](/research) | [Publications](/publications) | [Software](/software) | [Press](/press)
+[Research](/research)
 
 ---
 
