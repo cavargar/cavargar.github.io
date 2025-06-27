@@ -44,8 +44,6 @@ At the forefront of integrating advanced computational and mathematical modeling
 
 ---
 
----
-
 ## Recent Media Highlights
 
 - 🤖 Invited Speaker at [Segunda Cumbre IA 2025](https://www.youtube.com/live/ICp1CzuR4cw?si=3k8in5BS7l1JgP6_&t=11517)
