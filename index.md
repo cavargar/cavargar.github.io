@@ -51,18 +51,18 @@ Starting as a computer scientist, I found my passion at the intersection of comp
 
 ---
 
-## Links
-
-[ORCID](http://orcid.org/0000-0002-4286-8882) | [Google Scholar](https://scholar.google.com/citations?user=csX8l60AAAAJ&hl=en) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56423559600) | [ResearchGate](https://www.researchgate.net/profile/Cesar_Vargas-Garcia) | [CvLac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000749931)
-
----
-
 ## Recent Media Highlights
 
 - 🤖 Invited Speaker at [Segunda Cumbre IA 2025](https://www.youtube.com/live/ICp1CzuR4cw?si=3k8in5BS7l1JgP6_&t=11517)
 - 🌐 Global Technology Panel [**Panel CTel Global 2025**](https://www.youtube.com/live/3RLQ2u-fBzU?si=skdShT5GwvPa7Rih&t=1715)
 
 [**View All Press & Media →**](/press)
+
+---
+
+## Links
+
+[ORCID](http://orcid.org/0000-0002-4286-8882) | [Google Scholar](https://scholar.google.com/citations?user=csX8l60AAAAJ&hl=en) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56423559600) | [ResearchGate](https://www.researchgate.net/profile/Cesar_Vargas-Garcia) | [CvLac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000749931)
 
 ---
 
