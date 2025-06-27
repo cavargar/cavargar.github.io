@@ -72,3 +72,12 @@ Starting as a computer scientist, I found my passion at the intersection of comp
 
 
 *Last updated: June 2025*
+
+<!-- Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-TTCHWXFBEG"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-TTCHWXFBEG');
+</script>
