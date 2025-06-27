@@ -30,4 +30,4 @@ Artificial Intelligence (AI) represents a complex computational model, trained w
 
 ---
 
-[← Back to Home](/) | [Publications →](/publications)
+[← Back to Home](/) 
