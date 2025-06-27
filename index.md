@@ -53,11 +53,7 @@ Starting as a computer scientist, I found my passion at the intersection of comp
 
 ## Links
 
-- [ORCID](http://orcid.org/0000-0002-4286-8882)
-- [Google Scholar](https://scholar.google.com/citations?user=csX8l60AAAAJ&hl=en)
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56423559600)
-- [ResearchGate](https://www.researchgate.net/profile/Cesar_Vargas-Garcia)
-- [CvLac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000749931)
+[ORCID](http://orcid.org/0000-0002-4286-8882) | [Google Scholar](https://scholar.google.com/citations?user=csX8l60AAAAJ&hl=en) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56423559600) | [ResearchGate](https://www.researchgate.net/profile/Cesar_Vargas-Garcia) | [CvLac](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000749931)
 
 ---
 
