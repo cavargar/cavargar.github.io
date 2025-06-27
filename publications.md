@@ -27,6 +27,28 @@
 
 **Our contribution:** Implemented and applied the phixer algorithm to analyze single-cell RNA FISH data, revealing directed gene interaction networks that explain how rare cancer cells coordinately express resistance markers. This computational approach identified key upstream regulators driving drug resistance emergence.
 
+### 2. Cell Size Control and Gene Expression Homeostasis in Single Cells
+**Current Opinion in Systems Biology** (2018) | DOI: [10.1016/j.coisb.2018.01.002](https://doi.org/10.1016/j.coisb.2018.01.002)
+
+<div style="display: flex; align-items: center; gap: 15px; margin: 15px 0;">
+  <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1016/j.coisb.2018.01.002"></div>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.coisb.2018.01.002" data-style="small_circle"></span>
+  <a href="https://plu.mx/plum/a/?doi=10.1016/j.coisb.2018.01.002" class="plumx-plum-print-popup"></a>
+</div>
+
+📊 **Impact**: Highly cited review establishing framework for understanding cell size homeostasis
+
+**Our contribution:** Developed a comprehensive mathematical framework for understanding how cells maintain size homeostasis despite stochastic gene expression and division events. This work unified disparate experimental observations across multiple organisms (bacteria, yeast, mammalian cells) into a coherent theoretical framework.
+
+> **Key Innovation:** We showed how the "adder" mechanism (cells add a constant volume per cell cycle) emerges from the interplay between stochastic gene expression and cell division control, providing a universal principle for size homeostasis.
+
+**Related Publications in This Research Line:**
+- *Physical Review Letters* (2016) - First demonstration of conditions for adder correlations
+- *Current Biology* (2023) - Application to *Chlamydomonas* revealing new size control mechanisms  
+- *Cell Systems* (2022) - Extension to fission yeast cell size control
+- *Physical Review E* (2020-2021) - Mathematical unification of size control strategies
+
+💡 **Impact**: This body of work has redefined how we understand fundamental cellular processes, showing that seemingly complex behaviors emerge from simple stochastic rules. The framework is now widely used in quantitative cell biology.
 
 ## Complete Publication List
 
