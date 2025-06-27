@@ -44,16 +44,19 @@ At the forefront of integrating advanced computational and mathematical modeling
 
 ---
 
-## Recent Press Coverage
+---
 
-- [Cancer Research - University of Delaware](https://www.udel.edu/udaily/2017/june/nature-random-variations-cancer-drug-resistance/)
-- [AI for Agriculture TEDx Talk](https://www.youtube.com/watch?v=ctVui8Z7aJU&t=601s)
-- [Algae Research - Danforth Center](https://www.danforthcenter.org/news/new-discovery-on-how-green-algae-count-cell-divisions-illuminates-key-step-needed-for-the-evolution-of-multicellular-life/)
+## Recent Media Highlights
+
+- 🤖 Invited Speaker at [Segunda Cumbre IA 2025](https://www.youtube.com/live/ICp1CzuR4cw?si=3k8in5BS7l1JgP6_&t=11517)
+
+[**View All Press & Media →**](/press)
 
 ---
 
-[Research](/research)
+[Research](/research) | [Press & Media](/press)
 
 ---
+
 
 *Last updated: June 2025*
