@@ -1,4 +1,4 @@
-# César Augusto Vargas
+# César Augusto Vargas Garcia
 
 **Principal Investigator (Investigador Ph.D. Asociado)**  
 Corporación Colombiana de Investigación Agropecuaria - AGROSAVIA  
