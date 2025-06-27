@@ -4,7 +4,7 @@
 
 ## Featured Publication
 
-### Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance
+### 1. Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance
 **Nature** (2017) | [Read Paper](https://www.nature.com/articles/nature22794) | [Press Coverage](https://www.udel.edu/udaily/2017/june/nature-random-variations-cancer-drug-resistance/)
 
 <!-- Altmetric Badge -->
@@ -26,6 +26,8 @@
 </div>
 
 **Our contribution:** Implemented and applied the phixer algorithm to analyze single-cell RNA FISH data, revealing directed gene interaction networks that explain how rare cancer cells coordinately express resistance markers. This computational approach identified key upstream regulators driving drug resistance emergence.
+
+---
 
 ### 2. Cell Size Control and Gene Expression Homeostasis in Single Cells
 **Current Opinion in Systems Biology** (2018) | DOI: [10.1016/j.coisb.2018.01.002](https://doi.org/10.1016/j.coisb.2018.01.002)
@@ -49,6 +51,8 @@
 - *Physical Review E* (2020-2021) - Mathematical unification of size control strategies
 
 💡 **Impact**: This body of work has redefined how we understand fundamental cellular processes, showing that seemingly complex behaviors emerge from simple stochastic rules. The framework is now widely used in quantitative cell biology.
+
+---
 
 ## Complete Publication List
 
