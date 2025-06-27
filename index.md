@@ -4,8 +4,7 @@
 Corporación Colombiana de Investigación Agropecuaria - AGROSAVIA  
 Mosquera, Colombia
 
-📧 cavargar@gmail.com  
-📱 +57(322)776-9193
+📧 cavargas@agrosavia.co
 
 ---
 
