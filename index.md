@@ -10,7 +10,24 @@ Mosquera, Colombia
 
 ## About
 
-At the forefront of integrating advanced computational and mathematical modeling with biological and agricultural research, our team leverages Artificial Intelligence (AI) to address some of the most pressing challenges in these fields. We collaborate with both local and international organizations to bridge the gap between theoretical modeling and practical, experimental applications.
+I am a computational scientist with a unique interdisciplinary background, combining expertise in computer science, electrical engineering, and systems biology. My research focuses on integrating advanced computational and mathematical modeling with biological and agricultural applications, leveraging Artificial Intelligence to address pressing challenges in these fields.
+
+### Education
+
+- **Ph.D. in Electrical and Computer Engineering** (2012-2018)  
+  University of Delaware, USA  
+  *Dissertation: Stochastic Computational System Biology*
+
+- **M.Sc. in Computer Science** (2009-2012)  
+  Universidad Industrial de Santander, Colombia  
+  *Research: Metabolic Networks and Flux Balance Analysis*
+
+- **B.Sc. in Computer Science** (2003-2008)  
+  Universidad Industrial de Santander, Colombia  
+
+### Professional Journey
+
+Starting as a computer scientist, I found my passion at the intersection of computational methods and biological phenomena. My Ph.D. journey allowed me to apply deep theoretical tools from control theory and computer science to understand complex biological systems. Currently, as Principal Investigator at AGROSAVIA, I lead research initiatives that bridge theoretical modeling with practical agricultural and biological applications, collaborating with both local and international organizations.
 
 ### Research Focus Areas
 
