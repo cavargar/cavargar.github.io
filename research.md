@@ -16,14 +16,9 @@ Hyperspectral Imaging (HSI), capturing information across hundreds of spectral b
 
 The outcome for many cancer patients has substantially improved over the last two decades with the introduction of drugs targeting kinases and other proteins in signaling pathways disrupted in tumor cells. However, almost all tumors eventually develop resistance to these drugs, leading to cancer recurrence. 
 
-**Our Contribution (Nature, 2017):** We implemented and applied the phixer algorithm to analyze single-cell RNA FISH data from melanoma cancer cells, uncovering directed gene interaction networks among 19 genes including resistance markers (VEGFC, AXL, JUN, WNT5A, NGFR, SERPINE1, FGFR1, LOXL2, EGFR, NRG1, PDGFRB, RUNX2, FOSL1, and PDGFC). Our computational approach:
+**Our Contribution (Nature, 2017):** We developed and applied computational methods to uncover how cancer cells coordinate drug resistance through gene regulatory networks. Using the φ-mixing coefficient algorithm on single-cell data, we discovered that just 4 master regulator genes orchestrate the entire resistance program across 19 genes.
 
-- Used φ-mixing coefficients to quantify directed causal relationships between genes
-- Revealed that ~80% of apparent gene correlations were indirect effects from common upstream regulators
-- Identified key upstream regulators (NRG1, RUNX2, EGFR, PDGFRB) driving coordinated rare-cell expression of resistance markers
-- Demonstrated how resistance emerges through complex feedforward loops and regulatory pathways
-
-This work provided novel insights into how rare cancer cells coordinately express multiple resistance markers, potentially explaining treatment failure and cancer recurrence.
+[**→ Read Full Details of Our Cancer Research Discovery**](/cancer-research)
 
 ### 🧬 Stochastic Process Modeling and Statistical Analysis Unveiling Single-Cell Size Control Mechanisms
 
