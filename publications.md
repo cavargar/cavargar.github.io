@@ -29,18 +29,24 @@ For a comprehensive list of publications with citations and metrics, please visi
 ## Software & Tools
 
 ### PyEcoLib (2023)
-Python Library for E. coli size dynamics estimation  
-🔗 [Available on PyPI](https://pypi.org/project/PyEcoLib/)
+**Python Library for E. coli Size Dynamics Estimation**
 
 [![PyPI version](https://badge.fury.io/py/PyEcoLib.svg)](https://badge.fury.io/py/PyEcoLib)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyPI Downloads](https://static.pepy.tech/badge/pyecolib)](https://pepy.tech/projects/pyecolib)
 
+A comprehensive Python package for analyzing and estimating size dynamics in E. coli populations using stochastic process models.
+
+- 📦 **Install**: `pip install PyEcoLib`
+- 📖 **Documentation**: [PyPI Page](https://pypi.org/project/PyEcoLib/)
+- 🔬 **Application**: Single-cell biology research
+
+---
+
 <!-- Script includes for metrics badges -->
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
-
 ---
 
 [← Home](/) | [Research](/research) | [Press & Media](/press)
