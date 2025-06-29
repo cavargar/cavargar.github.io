@@ -34,6 +34,7 @@ For a comprehensive list of publications with citations and metrics, please visi
 [![PyPI version](https://badge.fury.io/py/PyEcoLib.svg)](https://badge.fury.io/py/PyEcoLib)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyPI Downloads](https://static.pepy.tech/badge/pyecolib)](https://pepy.tech/projects/pyecolib)
+[![PyPI Downloads](https://static.pepy.tech/badge/pyecolib/week)](https://pepy.tech/projects/pyecolib)
 
 A comprehensive Python package for analyzing and estimating size dynamics in E. coli populations using stochastic process models.
 
