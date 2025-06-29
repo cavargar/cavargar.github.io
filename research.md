@@ -1,6 +1,6 @@
 # Research
 
-[← Back to Home](/)
+[← Back to Home](/) | [ES](/research_es)
 
 ## Research Areas
 
