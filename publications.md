@@ -4,7 +4,7 @@
 
 ## Featured Publication
 
-### Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance
+### 🧬 💊 Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance
 **Nature** (2017) | [Read Paper](https://www.nature.com/articles/nature22794) | [Press Coverage](https://www.udel.edu/udaily/2017/june/nature-random-variations-cancer-drug-resistance/)
 
 <div style="display: flex; gap: 20px; align-items: center; margin: 15px 0;">
@@ -16,7 +16,7 @@
 
 [**→ Detailed Explanation of Our Discovery**](/cancer-research)
 
-### A mechanistic stochastic framework for regulating bacterial cell division
+### 🦠🧫⏱️📏 A mechanistic stochastic framework for regulating bacterial cell division
 **Scientific Reports** (2016) | [Read Paper](https://www.nature.com/articles/srep30229)
 
 <div style="display: flex; gap: 20px; align-items: center; margin: 15px 0;">
@@ -24,6 +24,7 @@
   <span class="__dimensions_badge_embed__" data-doi="10.1038/srep30229" data-style="small_circle"></span>
 </div>
 
+**Our contribution:** We developed a stochastic model for bacterial size homeostasis based on a timekeeper protein that accumulates proportionally to cell volume and triggers division at a threshold, formulated as a first-passage time problem. Our framework reproduces key experimental observations including the adder principle (constant volume added regardless of birth size), increased division timing noise in larger cells, and scale-invariant size distributions. This work provides mechanistic insights into bacterial cell cycle regulation and identifies potential molecular candidates like FtsZ and DnaA.
 
 ---
 
