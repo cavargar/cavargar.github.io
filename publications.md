@@ -32,6 +32,10 @@ For a comprehensive list of publications with citations and metrics, please visi
 Python Library for E. coli size dynamics estimation  
 🔗 [Available on PyPI](https://pypi.org/project/PyEcoLib/)
 
+[![PyPI version](https://badge.fury.io/py/PyEcoLib.svg)](https://badge.fury.io/py/PyEcoLib)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![PyPI Downloads](https://static.pepy.tech/badge/pyecolib)](https://pepy.tech/projects/pyecolib)
+
 <!-- Script includes for metrics badges -->
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
