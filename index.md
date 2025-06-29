@@ -1,5 +1,3 @@
-# César Augusto Vargas Garcia
-
 [ES](/index_es)
 
 **Principal Investigator (Investigador Ph.D. Asociado)**  
