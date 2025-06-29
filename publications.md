@@ -7,24 +7,24 @@
 ### 🧬 💊 Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance
 **Nature** (2017) | [Read Paper](https://www.nature.com/articles/nature22794) | [Press Coverage](https://www.udel.edu/udaily/2017/june/nature-random-variations-cancer-drug-resistance/)
 
+**Our contribution:** Implemented and applied the phixer algorithm to analyze single-cell RNA FISH data, revealing directed gene interaction networks that explain how rare cancer cells coordinately express resistance markers. This computational approach identified key upstream regulators driving drug resistance emergence.
+
+[**→ Detailed Explanation of Our Discovery**](/cancer-research)
+
 <div style="display: flex; gap: 20px; align-items: center; margin: 15px 0;">
   <div data-badge-type="donut" data-doi="10.1038/nature22794" data-badge-popover="right" class="altmetric-embed"></div>
   <span class="__dimensions_badge_embed__" data-doi="10.1038/nature22794" data-style="small_circle"></span>
 </div>
 
-**Our contribution:** Implemented and applied the phixer algorithm to analyze single-cell RNA FISH data, revealing directed gene interaction networks that explain how rare cancer cells coordinately express resistance markers. This computational approach identified key upstream regulators driving drug resistance emergence.
-
-[**→ Detailed Explanation of Our Discovery**](/cancer-research)
-
 ### 🦠🧫⏱️📏 A mechanistic stochastic framework for regulating bacterial cell division
 **Scientific Reports** (2016) | [Read Paper](https://www.nature.com/articles/srep30229)
+
+**Our contribution:** We developed a stochastic model for bacterial size homeostasis based on a timekeeper protein that accumulates proportionally to cell volume and triggers division at a threshold, formulated as a first-passage time problem. Our framework reproduces key experimental observations including the adder principle (constant volume added regardless of birth size), increased division timing noise in larger cells, and scale-invariant size distributions. This work provides mechanistic insights into bacterial cell cycle regulation and identifies potential molecular candidates like FtsZ and DnaA.
 
 <div style="display: flex; gap: 20px; align-items: center; margin: 15px 0;">
   <div data-badge-type="donut" data-doi="10.1038/srep30229" data-badge-popover="right" class="altmetric-embed"></div>
   <span class="__dimensions_badge_embed__" data-doi="10.1038/srep30229" data-style="small_circle"></span>
 </div>
-
-**Our contribution:** We developed a stochastic model for bacterial size homeostasis based on a timekeeper protein that accumulates proportionally to cell volume and triggers division at a threshold, formulated as a first-passage time problem. Our framework reproduces key experimental observations including the adder principle (constant volume added regardless of birth size), increased division timing noise in larger cells, and scale-invariant size distributions. This work provides mechanistic insights into bacterial cell cycle regulation and identifies potential molecular candidates like FtsZ and DnaA.
 
 ---
 
