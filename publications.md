@@ -20,8 +20,8 @@
 **Our contribution:** Developed and implemented machine learning frameworks for predicting soil chemical properties from visible and near-infrared spectroscopy (vis-NIRS) data. We evaluated three regression methods (Linear Regression, SVR, LASSO) and six classification approaches for 653 sugarcane soil samples. Our models achieved high performance for pH (R²=0.8, ρ=0.89), organic matter (R²=0.37, ρ=0.63), Ca (R²=0.54, ρ=0.74), and Mg (R²=0.44, ρ=0.66). We also developed feature ranking algorithms to identify key spectral bands correlated with soil properties, revealing that visible spectrum bands (450-670nm) are highly informative for most chemical properties.
 
 <div style="display: flex; gap: 20px; align-items: center; margin: 15px 0;">
-  <div data-badge-type="donut" data-doi="10.1016/j.geodrs.2022.e00533" data-badge-popover="right" class="altmetric-embed"></div>
-  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.geodrs.2022.e00533" data-style="small_circle"></span>
+  <div data-badge-type="donut" data-doi="10.1016/j.geodrs.2022.e00588" data-badge-popover="right" class="altmetric-embed"></div>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.geodrs.2022.e00588" data-style="small_circle"></span>
 </div>
 
 ### 🧬 💊 Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance
