@@ -14,6 +14,16 @@
   <span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2023.10.023" data-style="small_circle"></span>
 </div>
 
+### 🌱🔬💻📊 Vis–NIR spectroscopy and machine learning methods to diagnose chemical properties in Colombian sugarcane soils
+**Geoderma Regional** (2022) | [Read Paper](https://www.sciencedirect.com/science/article/abs/pii/S2352009422001080) | [ArXiv Preprint](https://arxiv.org/abs/2012.12995)
+
+**Our contribution:** Developed and implemented machine learning frameworks for predicting soil chemical properties from visible and near-infrared spectroscopy (vis-NIRS) data. We evaluated three regression methods (Linear Regression, SVR, LASSO) and six classification approaches for 653 sugarcane soil samples. Our models achieved high performance for pH (R²=0.8, ρ=0.89), organic matter (R²=0.37, ρ=0.63), Ca (R²=0.54, ρ=0.74), and Mg (R²=0.44, ρ=0.66). We also developed feature ranking algorithms to identify key spectral bands correlated with soil properties, revealing that visible spectrum bands (450-670nm) are highly informative for most chemical properties.
+
+<div style="display: flex; gap: 20px; align-items: center; margin: 15px 0;">
+  <div data-badge-type="donut" data-doi="10.1016/j.geodrs.2022.e00533" data-badge-popover="right" class="altmetric-embed"></div>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.geodrs.2022.e00533" data-style="small_circle"></span>
+</div>
+
 ### 🧬 💊 Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance
 **Nature** (2017) | [Read Paper](https://www.nature.com/articles/nature22794) | [Press Coverage](https://www.udel.edu/udaily/2017/june/nature-random-variations-cancer-drug-resistance/) | [Network Analysis](https://www.nature.com/articles/nature22794/figures/11)| [Mathematical Methods](https://static-content.springer.com/esm/art%3A10.1038%2Fnature22794/MediaObjects/41586_2017_BFnature22794_MOESM1_ESM.pdf#page=1)
 
