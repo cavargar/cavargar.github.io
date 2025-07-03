@@ -15,7 +15,7 @@
 </div>
 
 ### 🧬 💊 Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance
-**Nature** (2017) | [Read Paper](https://www.nature.com/articles/nature22794) | [Press Coverage](https://www.udel.edu/udaily/2017/june/nature-random-variations-cancer-drug-resistance/)
+**Nature** (2017) | [Read Paper](https://www.nature.com/articles/nature22794) | [Press Coverage](https://www.udel.edu/udaily/2017/june/nature-random-variations-cancer-drug-resistance/) | [Network Analysis](https://www.nature.com/articles/nature22794/figures/11)
 
 **Our contribution:** Implemented and applied the phixer algorithm to analyze single-cell RNA FISH data, revealing directed gene interaction networks that explain how rare cancer cells coordinately express resistance markers. This computational approach identified key upstream regulators driving drug resistance emergence.
 
