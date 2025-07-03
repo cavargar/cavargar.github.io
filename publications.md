@@ -4,6 +4,16 @@
 
 ## Featured Publication
 
+### 🌿🔬📊🧮 A cell-based model for size control in the multiple fission alga Chlamydomonas reinhardtii
+**Current Biology** (2023) | [Read Paper](https://doi.org/10.1016/j.cub.2023.10.023) | [Code & Data](https://github.com/cavargar/chlamycb)
+
+**Our contribution:** We developed stochastic mathematical models and computational analysis pipelines to understand size homeostasis in the green alga *Chlamydomonas*. By analyzing ~1,900 individual cells using single-cell microscopy data, we created a Modified Threshold (MT) model that accurately reproduces cell division behaviors. Our modeling revealed how the retinoblastoma complex uncouples commitment and mitotic size thresholds, providing insights into the evolution of multicellularity. We implemented maximum likelihood approaches for parameter estimation and contributed to experimental design, demonstrating that size control is robust across different growth conditions.
+
+<div style="display: flex; gap: 20px; align-items: center; margin: 15px 0;">
+  <div data-badge-type="donut" data-doi="10.1016/j.cub.2023.10.023" data-badge-popover="right" class="altmetric-embed"></div>
+  <span class="__dimensions_badge_embed__" data-doi="10.1016/j.cub.2023.10.023" data-style="small_circle"></span>
+</div>
+
 ### 🧬 💊 Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance
 **Nature** (2017) | [Read Paper](https://www.nature.com/articles/nature22794) | [Press Coverage](https://www.udel.edu/udaily/2017/june/nature-random-variations-cancer-drug-resistance/)
 
