@@ -139,7 +139,7 @@ Our Discovery (φ-mixing):
 
 ## Code Availability
 
-The binPhix algorithm implementation is available as part of the Nature publication supplementary materials. For researchers interested in applying this method to their own single-cell data, please refer to the detailed implementation guide in the supplementary information.
+The binPhix algorithm implementation is available as part of the Nature publication supplementary materials. For researchers interested in applying this method to their own single-cell data, please refer to the detailed implementation guide in the [supplementary information](https://static-content.springer.com/esm/art%3A10.1038%2Fnature22794/MediaObjects/41586_2017_BFnature22794_MOESM1_ESM.pdf#page=1).
 
 ---
 
