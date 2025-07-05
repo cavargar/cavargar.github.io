@@ -3,8 +3,8 @@
 [← Back to Research](/research)
 
 ## Publication
-**Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance**  
-Nature (2017) | [Full Paper](https://www.nature.com/articles/nature22794) | [Press Coverage](https://www.udel.edu/udaily/2017/june/nature-random-variations-cancer-drug-resistance/)
+### 🧬 💊 Rare cell variability and drug-induced reprogramming as a mode of cancer drug resistance
+**Nature** (2017) | [Read Paper](https://www.nature.com/articles/nature22794) | [Press Coverage](https://www.udel.edu/udaily/2017/june/nature-random-variations-cancer-drug-resistance/) | [Network Analysis](https://www.nature.com/articles/nature22794/figures/11) | [Mathematical Methods](https://static-content.springer.com/esm/art%3A10.1038%2Fnature22794/MediaObjects/41586_2017_BFnature22794_MOESM1_ESM.pdf#page=1)
 
 ---
 
