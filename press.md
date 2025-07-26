@@ -19,7 +19,8 @@
 - 📻 [**Tecno 4.0 e IA en el Campo**](https://laradiodelcampo.com.co/2025/05/19/tecno-4-0-e-ia-transformando-la-investigacion-agropecuaria/) - La Radio del Campo
 - 🌾 [**El Campo se Conecta al Futuro: Primer Seminario del Agro y Tecnología**](https://boyaca7dias.com.co/2025/07/22/el-campo-se-conecta-al-futuro-llega-a-boyaca-el-primer-seminario-del-agro-y-tecnologia/) - Boyacá 7 Días (July 22, 2025)
   - Coverage of the First Seminar on AI and 4.0 Technologies in Agriculture, featuring César Vargas as keynote speaker
-
+- 🤖 [**El Potencial de la Inteligencia Artificial en la Agricultura Colombiana**](https://redagricola.com/el-potencial-de-la-inteligencia-artificial-en-la-agricultura-colombiana/) - Red Agrícola (June 23, 2025)
+  - Coverage of the Second AI Summit for Agricultural Sector (AgroTIC), featuring César Vargas' presentation "Connecting Science and Field: AI as a Driver of Agricultural Innovation"
 ---
 
 ## Talks & Podcasts
