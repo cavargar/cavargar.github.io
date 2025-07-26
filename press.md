@@ -17,6 +17,8 @@
 - 📻 [**Tecnologías 4.0 e IA en la Investigación Agropecuaria**](https://www.agrosavia.co/noticias/tecnologías-4-0-e-inteligencia-artificial-transformando-la-investigación-agropecuaria-en-colombia) - AGROSAVIA Official
 - 🌾 [**Transformando la Investigación Agropecuaria**](https://elproductor.com/2025/05/tecnologias-4-0-e-inteligencia-artificial-transformando-la-investigacion-agropecuaria-en-colombia/) - El Productor
 - 📻 [**Tecno 4.0 e IA en el Campo**](https://laradiodelcampo.com.co/2025/05/19/tecno-4-0-e-ia-transformando-la-investigacion-agropecuaria/) - La Radio del Campo
+- 🌾 [**El Campo se Conecta al Futuro: Primer Seminario del Agro y Tecnología**](https://boyaca7dias.com.co/2025/07/22/el-campo-se-conecta-al-futuro-llega-a-boyaca-el-primer-seminario-del-agro-y-tecnologia/) - Boyacá 7 Días (July 22, 2025)
+  - Coverage of the First Seminar on AI and 4.0 Technologies in Agriculture, featuring César Vargas as keynote speaker
 
 ---
 
