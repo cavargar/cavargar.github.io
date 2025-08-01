@@ -10,7 +10,7 @@ Our research integrates advanced computational and mathematical modeling with bi
 
 ### 🌾 Applications of Hyperspectral Imaging in Colombian Agriculture
 
-Hyperspectral Imaging (HSI), capturing information across hundreds of spectral bands, has revolutionized data analysis in agriculture. Our research focuses on leveraging HSI for agricultural advancements in Colombia. We conduct comprehensive comparative studies on various target detection algorithms applied to hyperspectral imagery, aiming to enhance crop monitoring and management. By evaluating these algorithms in diverse agricultural scenarios, our work contributes to optimizing crop health and yield, particularly in Colombian ecosystems.
+Hyperspectral Imaging (HSI), capturing information across hundreds of spectral bands, has revolutionized data analysis in agriculture. [Our research](https://pdfs.semanticscholar.org/6b43/efa2a2b761fc4049ad34f0d9a1239ee35a8f.pdf) focuses on leveraging HSI for agricultural advancements in Colombia. We conduct comprehensive comparative studies on various target detection algorithms applied to hyperspectral imagery, aiming to enhance crop monitoring and management. By evaluating these algorithms in diverse agricultural scenarios, our work contributes to optimizing crop health and yield, particularly in Colombian ecosystems.
 
 ### 🔬 Probability Modeling Applied to Cancer Research
 
