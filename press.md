@@ -21,6 +21,7 @@
   - Coverage of the First Seminar on AI and 4.0 Technologies in Agriculture, featuring César Vargas as keynote speaker
 - 🤖 [**El Potencial de la Inteligencia Artificial en la Agricultura Colombiana**](https://redagricola.com/el-potencial-de-la-inteligencia-artificial-en-la-agricultura-colombiana/) - Red Agrícola (June 23, 2025)
   - Coverage of the Second AI Summit for Agricultural Sector (AgroTIC), featuring César Vargas' presentation "Connecting Science and Field: AI as a Driver of Agricultural Innovation"
+- [**AGROSAVIA en AgroFoodTech: innovación, IA y sostenibilidad para transformar el agro colombiano**](https://youtu.be/SAjo_u9b6zU?si=JPm-6ntB2wQ2Cmm8&t=107) 
 
 ---
 
