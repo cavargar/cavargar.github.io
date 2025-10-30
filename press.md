@@ -29,14 +29,18 @@
 
 ### Featured Presentations
 
-- 🎤 [**TEDx Talk: AI for Agriculture**](https://www.youtube.com/watch?v=ctVui8Z7aJU&t=601s)
-  - TEDx presentation on artificial intelligence applications in agricultural research
+- 🤖 [**Foro AgroTech La Salle 2025**](https://www.facebook.com/100067628264249/posts/pfbid0r76JczB1rV3jEsWXMzRb8MaJrt5xydHbYSnLagYS3GZJkBXstzTYrJQG5YzDPosEl/)
+  - Invited talk at AgroTech La Salle 2025
 
 - 🤖 [**Segunda Cumbre Inteligencia Artificial 2025**](https://www.youtube.com/live/ICp1CzuR4cw?si=3k8in5BS7l1JgP6_&t=11517)
   - Invited talk at the Second AI Summit 2025
-
+    
 - 🎯 [**Panel: Ética en la Inteligencia Artificial**](https://www.youtube.com/watch?v=79zzq2ZZzJo)
   - Panel discussion on ethics in artificial intelligence
+
+- 🎤 [**TEDx Talk: AI for Agriculture**](https://www.youtube.com/watch?v=ctVui8Z7aJU&t=601s)
+  - TEDx presentation on artificial intelligence applications in agricultural research
+
 
 ### Interviews & Podcasts
 
