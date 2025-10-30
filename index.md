@@ -74,7 +74,7 @@ Starting as a computer scientist, I found my passion at the intersection of comp
 ---
 
 
-*Last updated: August 2025*
+*Last updated: October 2025*
 
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TTCHWXFBEG"></script>
