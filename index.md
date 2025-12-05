@@ -55,6 +55,22 @@ Starting as a computer scientist, I found my passion at the intersection of comp
 
 ---
 
+## Recent Publications (2025)
+
+### 🧬 Dynamical Inference of Cell Size Regulation Parameters
+**arXiv preprint** | [Read Paper](https://arxiv.org/abs/2511.22145)
+
+Just like humans maintain a healthy weight, cells need to stay the right size. They do this by deciding when to divide based on how big they are and how much they've grown. This study creates a new mathematical tool to understand how cells make these decisions, especially when conditions change (like when food runs low). The method helps scientists understand how cells adapt to changing environments and could improve our knowledge of cell growth in health and disease.
+
+### 🌾 Non-centrifugal Cane Sugar Crop Monitoring Through Remote Sensing
+**SPIE Remote Sensing** | [Read Paper](https://doi.org/10.1117/12.3069918)
+
+Panela (unrefined cane sugar) is Colombia's second most important crop after coffee. This groundbreaking study used satellite images to monitor over 90% of Colombia's panela fields for the first time, tracking 9,208 individual farms across 52 municipalities from 2020 to 2025. By analyzing millions of satellite images, researchers identified different growing patterns across the country, giving farmers better tools to understand their crops and helping support thousands of small-scale farmers who depend on this traditional crop.
+
+[**View All Publications →**](/publications)
+
+---
+
 ## Recent Media Highlights
 
 - 🤖 Invited Speaker at [AgroTech La Salle 2025](https://www.facebook.com/100067628264249/posts/pfbid0r76JczB1rV3jEsWXMzRb8MaJrt5xydHbYSnLagYS3GZJkBXstzTYrJQG5YzDPosEl/)

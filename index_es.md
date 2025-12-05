@@ -53,6 +53,22 @@ Comenzando como científico de la computación, encontré mi pasión en la inter
 
 ---
 
+## Publicaciones Recientes (2025)
+
+### 🧬 Inferencia Dinámica de Parámetros de Regulación del Tamaño Celular
+**arXiv preprint** | [Leer Artículo](https://arxiv.org/abs/2511.22145)
+
+Así como los humanos mantienen un peso saludable, las células necesitan mantener el tamaño correcto. Lo hacen decidiendo cuándo dividirse según su tamaño y cuánto han crecido. Este estudio crea una nueva herramienta matemática para entender cómo las células toman estas decisiones, especialmente cuando las condiciones cambian (como cuando escasea el alimento). El método ayuda a los científicos a comprender cómo las células se adaptan a entornos cambiantes y podría mejorar nuestro conocimiento del crecimiento celular en salud y enfermedad.
+
+### 🌾 Monitoreo de Cultivos de Panela Mediante Teledetección
+**SPIE Remote Sensing** | [Leer Artículo](https://doi.org/10.1117/12.3069918)
+
+La panela es el segundo cultivo más importante de Colombia después del café. Este estudio pionero utilizó imágenes satelitales para monitorear por primera vez más del 90% de los campos de panela de Colombia, rastreando 9,208 fincas individuales en 52 municipios desde 2020 hasta 2025. Al analizar millones de imágenes satelitales, los investigadores identificaron diferentes patrones de cultivo en todo el país, brindando a los agricultores mejores herramientas para entender sus cultivos y ayudando a apoyar a miles de pequeños agricultores que dependen de este cultivo tradicional.
+
+[**Ver Todas las Publicaciones →**](/publications)
+
+---
+
 ## Apariciones Recientes en Medios
 
 - 🤖 Ponente Invitado en la [Segunda Cumbre IA 2025](https://www.youtube.com/live/ICp1CzuR4cw?si=3k8in5BS7l1JgP6_&t=11517)
