@@ -1,4 +1,6 @@
-[ES](/index_es)
+<div style="text-align: right; margin-bottom: 10px;">
+  <button onclick="switchLanguage('es')" style="background: none; border: none; cursor: pointer; font-size: 16px; padding: 5px 10px; text-decoration: underline;">🇪🇸 Español</button>
+</div>
 
 <img src="/profile.jpg" width="500">
 
@@ -76,6 +78,9 @@ Starting as a computer scientist, I found my passion at the intersection of comp
 
 
 *Last updated: October 2025*
+
+<!-- Language Switcher -->
+<script src="/language-switcher.js"></script>
 
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TTCHWXFBEG"></script>

@@ -1,6 +1,9 @@
 # Research
 
-[← Back to Home](/) | [ES](/research_es)
+<div style="text-align: right; margin-bottom: 10px;">
+  <a href="/">← Back to Home</a> |
+  <button onclick="switchLanguage('es')" style="background: none; border: none; cursor: pointer; font-size: 16px; padding: 0; text-decoration: underline;">🇪🇸 Español</button>
+</div>
 
 ## Research Areas
 
@@ -34,4 +37,7 @@ Artificial Intelligence (AI) represents a complex computational model, trained w
 
 ---
 
-[← Back to Home](/) 
+[← Back to Home](/)
+
+<!-- Language Switcher -->
+<script src="/language-switcher.js"></script> 

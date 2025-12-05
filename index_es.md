@@ -1,4 +1,6 @@
-[EN](/index)
+<div style="text-align: right; margin-bottom: 10px;">
+  <button onclick="switchLanguage('en')" style="background: none; border: none; cursor: pointer; font-size: 16px; padding: 5px 10px; text-decoration: underline;">🇺🇸 English</button>
+</div>
 
 **Investigador Principal (Investigador Ph.D. Asociado)**  
 Corporación Colombiana de Investigación Agropecuaria - AGROSAVIA  
@@ -72,6 +74,9 @@ Comenzando como científico de la computación, encontré mi pasión en la inter
 
 
 *Última actualización: Junio 2025*
+
+<!-- Language Switcher -->
+<script src="/language-switcher.js"></script>
 
 <!-- Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TTCHWXFBEG"></script>

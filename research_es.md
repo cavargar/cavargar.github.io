@@ -1,6 +1,9 @@
 # Investigación
 
-[← Volver al Inicio](/) | [EN](/research)
+<div style="text-align: right; margin-bottom: 10px;">
+  <a href="/">← Volver al Inicio</a> |
+  <button onclick="switchLanguage('en')" style="background: none; border: none; cursor: pointer; font-size: 16px; padding: 0; text-decoration: underline;">🇺🇸 English</button>
+</div>
 
 ## Áreas de Investigación
 
@@ -27,3 +30,6 @@ La Inteligencia Artificial (IA) representa un modelo computacional complejo, ent
 
 ---
 [← Volver al Inicio](/)
+
+<!-- Language Switcher -->
+<script src="/language-switcher.js"></script>
