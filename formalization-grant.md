@@ -1,3 +1,12 @@
+---
+layout: default
+title: "SHS Formalization Grant Proposal"
+---
+
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # Formal Verification of Stochastic Hybrid Systems: From Cell Biology to Systems Agriculture
 
 [← Back to Home](/) | [Research](/research) | [Publications](/publications)
@@ -185,5 +194,3 @@ Our unique position—deep theoretical expertise in cell size control plus agric
 
 [← Back to Home](/) | [Research](/research) | [Publications](/publications)
 
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
