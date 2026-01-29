@@ -55,7 +55,12 @@ Starting as a computer scientist, I found my passion at the intersection of comp
 
 ---
 
-## Recent Publications (2025)
+## Recent Publications (2025-2026)
+
+### 🌱 Vis-NIR Spectroscopy and Machine Learning for Soil Organic Carbon Assessment
+**Sustainability** | [Read Paper](https://doi.org/10.3390/su18010513)
+
+Healthy soils are essential for sustainable agriculture, and soil organic carbon is a key indicator of soil health. This study combined light-based spectroscopy with machine learning to quickly assess soil carbon content in Colombia's Sierra Nevada de Santa Marta region. Instead of expensive lab tests, researchers shone visible and near-infrared light on soil samples and used AI algorithms to predict carbon levels. This faster, cheaper method could help farmers and conservationists better monitor soil health across Colombia's diverse landscapes.
 
 ### 🧬 Dynamical Inference of Cell Size Regulation Parameters
 **arXiv preprint** | [Read Paper](https://arxiv.org/abs/2511.22145)
@@ -93,7 +98,7 @@ Panela (unrefined cane sugar) is Colombia's second most important crop after cof
 ---
 
 
-*Last updated: October 2025*
+*Last updated: January 2026*
 
 <!-- Language Switcher -->
 <script src="/language-switcher.js"></script>

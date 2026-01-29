@@ -53,7 +53,12 @@ Comenzando como científico de la computación, encontré mi pasión en la inter
 
 ---
 
-## Publicaciones Recientes (2025)
+## Publicaciones Recientes (2025-2026)
+
+### 🌱 Espectroscopía Vis-NIR y Aprendizaje Automático para Evaluación de Carbono Orgánico del Suelo
+**Sustainability** | [Leer Artículo](https://doi.org/10.3390/su18010513)
+
+Los suelos saludables son esenciales para la agricultura sostenible, y el carbono orgánico del suelo es un indicador clave de la salud del suelo. Este estudio combinó espectroscopía basada en luz con aprendizaje automático para evaluar rápidamente el contenido de carbono en suelos de la región de la Sierra Nevada de Santa Marta en Colombia. En lugar de costosas pruebas de laboratorio, los investigadores iluminaron muestras de suelo con luz visible e infrarroja cercana y utilizaron algoritmos de IA para predecir los niveles de carbono. Este método más rápido y económico podría ayudar a agricultores y conservacionistas a monitorear mejor la salud del suelo en los diversos paisajes de Colombia.
 
 ### 🧬 Inferencia Dinámica de Parámetros de Regulación del Tamaño Celular
 **arXiv preprint** | [Leer Artículo](https://arxiv.org/abs/2511.22145)
@@ -89,7 +94,7 @@ La panela es el segundo cultivo más importante de Colombia después del café. 
 ---
 
 
-*Última actualización: Junio 2025*
+*Última actualización: Enero 2026*
 
 <!-- Language Switcher -->
 <script src="/language-switcher.js"></script>
