@@ -40,6 +40,7 @@ Starting as a computer scientist, I found my passion at the intersection of comp
 - 🧬 **Stochastic Process Modeling** for Cell Size Control
 - 🦠 **HIV Transmission** Mathematical Modeling
 - 🤖 **Artificial Intelligence** Applications in Biology & Agriculture
+- 🧮 **Formal Verification (Lean 4)** of Stochastic Hybrid Systems
 
 [**View Detailed Research →**](/research)
 

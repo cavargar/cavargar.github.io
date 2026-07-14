@@ -22,6 +22,10 @@ Los resultados para muchos pacientes con cáncer han mejorado sustancialmente en
 ### 🧬 Modelado de Procesos Estocásticos y Análisis Estadístico Revelando Mecanismos de Control del Tamaño Celular Individual
 Cómo las células en crecimiento exponencial mantienen la homeostasis del tamaño es una pregunta fundamental. Estudios recientes de células individuales en varios organismos han descubierto nuevos mecanismos que controlan el tamaño celular, a pesar del comportamiento estocástico inherente. A través del análisis estadístico de miles de mediciones del ciclo celular, desarrollamos un marco de procesos estocásticos. Este marco sugiere posibles mecanismos moleculares relevantes no solo para la homeostasis del tamaño, sino también para componentes clave en procesos celulares fundamentales.
 
+**Nuestra Contribución:** Formalizamos esta teoría de sistemas híbridos estocásticos en Lean 4, produciendo una verificación matemática, revisada por computadora, de más de 2,500 líneas del marco matemático que sustenta nuestra investigación sobre control del tamaño celular.
+
+[**→ Explora SHSLib, Nuestra Formalización en Lean 4 de Sistemas Híbridos Estocásticos**](/shslib)
+
 ### 🦠 Estrategias Óptimas de Transmisión del VIH
 La transmisión del VIH ocurre mediante dos mecanismos: la vía del virus libre y la transmisión célula-célula, donde las células infectadas forman sinapsis virológicas con células no infectadas. La replicación del VIH involucra un bucle de retroalimentación positiva controlado por la proteína viral Tat, que potencialmente actúa como un interruptor estocástico para determinar la latencia celular. Estudiamos un modelo matemático de replicación del VIH que incorpora ambas vías de transmisión. Nuestro modelo demuestra que la alta multiplicidad de infección en la transmisión célula-célula suprime la infección latente, proporcionando un beneficio evolutivo al virus.
 

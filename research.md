@@ -27,6 +27,10 @@ The outcome for many cancer patients has substantially improved over the last tw
 
 How exponentially growing cells maintain size homeostasis is a fundamental question. Recent single-cell studies in various organisms have uncovered new mechanisms controlling cell size, despite inherent stochastic behavior. Through statistical analysis of thousands of cell-cycle measurements, we developed a stochastic processes framework. This framework suggests possible molecular mechanisms relevant to not only size homeostasis but also key components in fundamental cell processes.
 
+**Our Contribution:** We formalized this stochastic hybrid systems theory in Lean 4, producing a machine-checked, 2,500+ line verification of the mathematical framework underlying our cell size control research.
+
+[**→ Explore SHSLib, Our Lean 4 Formalization of Stochastic Hybrid Systems**](/shslib)
+
 ### 🦠 HIV Optimal Transmission Strategies
 
 Transmission of HIV occurs via two mechanisms: the free virus pathway and cell-cell transmission, where infected cells form virological synapses with uninfected cells. HIV replication involves a positive feedback loop controlled by the viral protein Tat, potentially acting as a stochastic switch in determining cell latency. We study a mathematical model of HIV replication incorporating both transmission pathways. Our model demonstrates that the high multiplicity of infection in cell-cell transmission suppresses latent infection, providing an evolutionary benefit to the virus.

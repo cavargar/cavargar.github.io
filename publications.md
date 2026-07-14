@@ -72,6 +72,17 @@ A comprehensive Python package for analyzing and estimating size dynamics in E. 
 [![PyPI Downloads](https://static.pepy.tech/badge/pyecolib)](https://pepy.tech/projects/pyecolib)
 [![PyPI Downloads](https://static.pepy.tech/badge/pyecolib/week)](https://pepy.tech/projects/pyecolib)
 
+### SHSLib (2026)
+**Lean 4 Formalization of Stochastic Hybrid Systems**
+
+A formally verified Lean 4 library (2,500+ lines) for stochastic hybrid systems theory, based on Hespanha's (2005) framework and Davis's Piecewise-Deterministic Markov Processes.
+
+- 💻 **Repository**: [GitHub](https://github.com/cavargar/SHSLib)
+- 📖 **Details**: [Project Page](/shslib)
+- 🔬 **Application**: Cell size control, gene expression dynamics, systems agriculture
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ---
 
 <!-- Script includes for metrics badges -->

@@ -36,7 +36,7 @@ We propose to advance the formal verification of **Stochastic Hybrid Systems (SH
 
 ## 1. Preliminary Work: Foundations Already Formalized
 
-Our team has completed a production-grade Lean 4 formalization of SHS theory based on Hespanha's foundational framework (2005). The following core results are **fully verified** (2,500+ lines, Lean 4.24.0 with Mathlib):
+Our team has completed a production-grade Lean 4 formalization of SHS theory based on Hespanha's foundational framework (2005), released as **[SHSLib](https://github.com/cavargar/SHSLib)** ([project details](/shslib)). The following core results are **fully verified** (2,500+ lines, Lean 4.24.0 with Mathlib):
 
 ### 1.1 Stochastic Hybrid System Definition (Formalized)
 
