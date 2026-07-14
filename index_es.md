@@ -70,14 +70,26 @@ Así como los humanos mantienen un peso saludable, las células necesitan manten
 
 La panela es el segundo cultivo más importante de Colombia después del café. Este estudio pionero utilizó imágenes satelitales para monitorear por primera vez más del 90% de los campos de panela de Colombia, rastreando 9,208 fincas individuales en 52 municipios desde 2020 hasta 2025. Al analizar millones de imágenes satelitales, los investigadores identificaron diferentes patrones de cultivo en todo el país, brindando a los agricultores mejores herramientas para entender sus cultivos y ayudando a apoyar a miles de pequeños agricultores que dependen de este cultivo tradicional.
 
+### 🍫 IA4CACAO: Clasificación de Granos de Cacao Fermentado Mediante Aprendizaje Profundo (Imágenes de Prueba de Corte) en Colombia
+**AgriEngineering** | [Leer Artículo](https://www.mdpi.com/2624-7402/8/6/206)
+
+Evaluar la calidad de la fermentación del cacao tradicionalmente depende de "pruebas de corte" manuales, lentas y subjetivas. Este estudio entrenó modelos de aprendizaje profundo para clasificar automáticamente granos de cacao fermentado a partir de imágenes de prueba de corte, ofreciendo una forma más rápida y consistente de verificar la calidad y ayudando a demostrar la excelencia del cacao colombiano ante los mercados internacionales.
+
+### 📊 Generación de Conocimiento Científico y Tecnológico en AGROSAVIA: 30 Años de Impacto
+**Repositorio Institucional AGROSAVIA** | [Leer Informe](https://repository.agrosavia.co/items/272b0a9a-e538-467c-b782-7af8cb9b0528)
+
+Un análisis cienciométrico de tres décadas de producción investigativa en AGROSAVIA, examinando la generación de conocimiento científico y tecnológico de la institución y su impacto en la investigación agropecuaria colombiana.
+
 [**Ver Todas las Publicaciones →**](/publications)
 
 ---
 
 ## Apariciones Recientes en Medios
 
+- 🌍 Panelista en el [Foro de Alto Nivel: IA, Digitalización y Gobernanza de Datos para la Seguridad Alimentaria y Nutrición](https://www.linkedin.com/posts/agrosavia_high-level-forum-harnessing-artificial-intelligence-activity-7477743728489807872-yFCG)
+- 🍫 [Inteligencia Artificial Desarrollada por AGROSAVIA Demuestra la Calidad del Cacao Colombiano](https://www.facebook.com/story.php?story_fbid=pfbid0WyfMpvmhSAqF924WcgP6cxMYyFQWNxaXKaKhpwL4eSzsRMS3fvqx4RAUVcRJiEJql&id=100064334003566)
+- 🌴 [Transferencia de Tecnología Digital al Caribe: Dr. Agro y AlimenTro](https://www.facebook.com/share/v/1EugcC77Gc/?mibextid=wwXIfr)
 - 🤖 Ponente Invitado en la [Segunda Cumbre IA 2025](https://www.youtube.com/live/ICp1CzuR4cw?si=3k8in5BS7l1JgP6_&t=11517)
-- 🌐 Panel de Tecnología Global [**Panel CTel Global 2025**](https://www.youtube.com/live/3RLQ2u-fBzU?si=skdShT5GwvPa7Rih&t=1715)
 
 [**Ver Toda la Prensa y Medios →**](/press)
 

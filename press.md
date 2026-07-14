@@ -23,6 +23,17 @@
   - Coverage of the Second AI Summit for Agricultural Sector (AgroTIC), featuring César Vargas' presentation "Connecting Science and Field: AI as a Driver of Agricultural Innovation"
 - [**AGROSAVIA en AgroFoodTech: innovación, IA y sostenibilidad para transformar el agro colombiano**](https://youtu.be/SAjo_u9b6zU?si=JPm-6ntB2wQ2Cmm8&t=107) 
 
+### AI & Agriculture Coverage (2026)
+
+- 🌍 [**High-Level Forum: Harnessing Artificial Intelligence, Digitalization and Data Governance for Food Security and Nutrition**](https://www.linkedin.com/posts/agrosavia_high-level-forum-harnessing-artificial-intelligence-activity-7477743728489807872-yFCG)
+  - César Vargas represented CITibaitatá on the panel "Understanding the use of data, digital technologies and AI for food security and nutrition," alongside international experts discussing responsible AI and data governance for global food systems
+- 🍫 [**AI Developed by AGROSAVIA Showcases the Quality of Colombian Cacao**](https://www.facebook.com/story.php?story_fbid=pfbid0WyfMpvmhSAqF924WcgP6cxMYyFQWNxaXKaKhpwL4eSzsRMS3fvqx4RAUVcRJiEJql&id=100064334003566) - AGROSAVIA
+  - New AI tool to help demonstrate Colombian cacao quality to international markets
+- 🌴 [**Digital Technology Transfer to the Caribbean: Dr. Agro & AlimenTro**](https://www.facebook.com/share/v/1EugcC77Gc/?mibextid=wwXIfr) - AGROSAVIA
+  - AGROSAVIA's Dr. Agro and AlimenTro tools adapted by CARDI, with APC Colombia support, to strengthen food systems across the Bahamas, Barbados, Guyana, Jamaica, St. Vincent and the Grenadines, and Trinidad and Tobago
+- 📺 [**Artificial Intelligence: The New Ally of Agriculture in Colombia**](https://www.facebook.com/share/p/192daZ3mMd/?mibextid=wwXIfr) - TvAgro (May 5)
+  - Coverage of CITibaitatá's contributions to applied AI in Colombian agriculture
+
 ---
 
 ## Talks & Podcasts

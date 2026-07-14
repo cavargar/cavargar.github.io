@@ -72,15 +72,26 @@ Just like humans maintain a healthy weight, cells need to stay the right size. T
 
 Panela (unrefined cane sugar) is Colombia's second most important crop after coffee. This groundbreaking study used satellite images to monitor over 90% of Colombia's panela fields for the first time, tracking 9,208 individual farms across 52 municipalities from 2020 to 2025. By analyzing millions of satellite images, researchers identified different growing patterns across the country, giving farmers better tools to understand their crops and helping support thousands of small-scale farmers who depend on this traditional crop.
 
+### 🍫 IA4CACAO: Deep Learning-Based Classification of Fermented Cocoa Beans (Cut Test Images) in Colombia
+**AgriEngineering** | [Read Paper](https://www.mdpi.com/2624-7402/8/6/206)
+
+Assessing cocoa fermentation quality traditionally relies on manual "cut tests," which are slow and subjective. This study trained deep learning models to automatically classify fermented cocoa beans from cut-test images, offering a faster, more consistent way to verify quality and helping demonstrate the excellence of Colombian cacao to international markets.
+
+### 📊 Generación de Conocimiento Científico y Tecnológico en AGROSAVIA: 30 Años de Impacto
+**AGROSAVIA Institutional Repository** | [Read Report](https://repository.agrosavia.co/items/272b0a9a-e538-467c-b782-7af8cb9b0528)
+
+A scientometric analysis of three decades of research output at AGROSAVIA, examining the institution's scientific and technological knowledge generation and its impact on Colombian agricultural research.
+
 [**View All Publications →**](/publications)
 
 ---
 
 ## Recent Media Highlights
 
+- 🌍 Panelist at [High-Level Forum: AI, Digitalization and Data Governance for Food Security and Nutrition](https://www.linkedin.com/posts/agrosavia_high-level-forum-harnessing-artificial-intelligence-activity-7477743728489807872-yFCG)
+- 🍫 [AI Developed by AGROSAVIA Showcases the Quality of Colombian Cacao](https://www.facebook.com/story.php?story_fbid=pfbid0WyfMpvmhSAqF924WcgP6cxMYyFQWNxaXKaKhpwL4eSzsRMS3fvqx4RAUVcRJiEJql&id=100064334003566)
+- 🌴 [Digital Technology Transfer to the Caribbean: Dr. Agro & AlimenTro](https://www.facebook.com/share/v/1EugcC77Gc/?mibextid=wwXIfr)
 - 🤖 Invited Speaker at [AgroTech La Salle 2025](https://www.facebook.com/100067628264249/posts/pfbid0r76JczB1rV3jEsWXMzRb8MaJrt5xydHbYSnLagYS3GZJkBXstzTYrJQG5YzDPosEl/)
-- 🤖 Invited Speaker at [Segunda Cumbre IA 2025](https://www.youtube.com/live/ICp1CzuR4cw?si=3k8in5BS7l1JgP6_&t=11517)
-- 🌐 Global Technology Panel [**Panel CTel Global 2025**](https://www.youtube.com/live/3RLQ2u-fBzU?si=skdShT5GwvPa7Rih&t=1715)
 
 [**View All Press & Media →**](/press)
 
