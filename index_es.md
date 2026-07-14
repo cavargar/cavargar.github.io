@@ -38,7 +38,7 @@ Comenzando como científico de la computación, encontré mi pasión en la inter
 - 🧬 **Modelado de Procesos Estocásticos** para Control del Tamaño Celular
 - 🦠 **Modelado Matemático** de la Transmisión del VIH
 - 🤖 **Aplicaciones de Inteligencia Artificial** en Biología y Agricultura
-- 🧮 **Verificación Formal (Lean 4)** de Sistemas Híbridos Estocásticos
+- 🧮 [**Verificación Formal (Lean 4)** de Sistemas Híbridos Estocásticos](/shslib)
 
 [**Ver Investigación Detallada →**](/research)
 
