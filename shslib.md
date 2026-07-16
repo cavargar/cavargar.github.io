@@ -112,4 +112,8 @@ It also forms the preliminary work for a proposed two-year extension into gene e
 
 ---
 
+## How to cite
+
+[![DOI](https://zenodo.org/badge/1292551054.svg)](https://doi.org/10.5281/zenodo.21396984)
+
 [← Back to Research](/research) | [View on GitHub](https://github.com/cavargar/SHSLib) | [Extension Proposal](/formalization-grant)
